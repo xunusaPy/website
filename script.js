@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const bioMessages = [
     "Miluju x64dbg, x64dbg miluje mě.",
-    "\Python, C#, C+, assembly,.lua\""
+    "\Python, C#, C++, Assembly,.lua\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
